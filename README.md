@@ -10,26 +10,24 @@ I'm passionate about building AI-powered applications and full-stack software.
 
 - Python
 - Java
-- C++
 - JavaScript
-- React
+- TypeScript
+- React.js
 - Node.js
-- Express
+- Express.js
 - MySQL
 - MongoDB
 - Git
-- Docker
 
 ## 🌟 Featured Projects
 
-- 🤖 Jarvis AI Desktop Assistant
-- 🛒 E-Commerce PHP Platform
-- 📊 Machine Learning Projects
+- 🤖 SkillCraft.ai
+- 🛒 StartupLaunch
+- 📊 Expense Tracker
 
 ## 📫 Connect with me
 
-- LinkedIn:
-- Portfolio:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/krunal-borad
+- Email: krunalborad06@gmail.com
 
 ⭐ Thanks for visiting my profile!
