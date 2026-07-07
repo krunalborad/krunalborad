@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Krunal Borad
 
-<!--
-**krunalborad/krunalborad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Engineer | AI & Full Stack Developer
 
-Here are some ideas to get you started:
+📍 Mumbai, Maharashtra, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building AI-powered applications and full-stack software.
+
+## 💻 Tech Stack
+
+- Python
+- Java
+- C++
+- JavaScript
+- React
+- Node.js
+- Express
+- MySQL
+- MongoDB
+- Git
+- Docker
+
+## 🌟 Featured Projects
+
+- 🤖 Jarvis AI Desktop Assistant
+- 🛒 E-Commerce PHP Platform
+- 📊 Machine Learning Projects
+
+## 📫 Connect with me
+
+- LinkedIn:
+- Portfolio:
+- Email:
+
+⭐ Thanks for visiting my profile!
